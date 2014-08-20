@@ -1,0 +1,24 @@
+#Visual Studio files
+*.suo
+[Oo]bj/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+*.csproj.user
+
+*.Tmp
+#Project files
+[Bb]uild/
+
+#NuGet
+packages/
+*.nupkg
+
+# StyleCop
+StyleCop.Cache
+
+# Resharper
+*.DotSettings.user
+
+# Zipfiles
+*.zip
